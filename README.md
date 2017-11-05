@@ -4,7 +4,7 @@ National predictions of NO2 and PM2.5 based on Land Use Regression, satellite da
 **Spatial Resolution**: 1km×1km     
 **Temporal Resolution**: Annual average      
 **Time coverage**:2014,2015      
-**Pollutants**: NO2,PM2.5
+**Pollutants**: NO2,PM2.5      
 **Unit**：μg/m3
 **Map size**: 4835×4044     
 **Projection**: China_Albers_Equal_Area_Conic(datum:WGS84)     
