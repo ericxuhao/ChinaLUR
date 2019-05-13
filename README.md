@@ -12,7 +12,9 @@ National predictions of NO2 and PM2.5 based on Land Use Regression, satellite da
 **HOW TO OPEN/READ THE FILE:** Using ArcGIS or any programming language with GDAL package (e.g. python+gdal/R+rgdal)    
 **Data creator:** Hao Xu      
 **Author:**  Hao Xu, Matthew Bechle and Julian Marshall     
-**Contact:** Hao Xu (xuhao13@uw.edu)     
+**Contact:** Hao Xu (xuhao13@mails.tsinghua.edu.cn / xuhao13@uw.edu)     
 **PLEASE email Hao Xu to ask for the passcode of these files**     
 **All rights reserved to Julian Marshall's group, must not be used for publications before authorized**                   
-**If you use these data, please cite them as: Xu, H., Bechle, M.J., Wang, M., Szpiro, A.A., Vedal, S., Bai, Y., Marshall, J.D., 2019. National PM2. 5 and NO2 exposure models for China based on land use regression, satellite measurements, and universal kriging. Sci. Total Environ. 655, 423-433. https://doi.org/10.1016/j.scitotenv.2018.11.125**
+**If you use these data, please cite them as: **         
+Xu, H., Bechle, M.J., Wang, M., Szpiro, A.A., Vedal, S., Bai, Y., Marshall, J.D., 2019. National PM2. 5 and NO2 exposure models for China based on land use regression, satellite measurements, and universal kriging. Sci. Total Environ. 655, 423-433. https://doi.org/10.1016/j.scitotenv.2018.11.125
+ 
